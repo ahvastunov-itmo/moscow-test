@@ -1,2 +1,2 @@
 # moscow-test
-Example repository
+Example repository for moscow teachers
